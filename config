@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = John Doe
+	email = johndoe@example.com
+[remote "origin"]
+	url = https://github.com/koooooru/isukoru.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
